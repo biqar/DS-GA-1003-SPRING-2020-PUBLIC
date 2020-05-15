@@ -5,6 +5,7 @@
 - You are expected to upload predictions on the test set in a csv file, which will be automatically evaluated against original labels of the test set, and appropriate results will be returned  
 - Maximum number of submissions allowed is 5. Don't forget to activate your best submission, amongst your all 5 submissions  
 - During submission please keep the leaderboard name same as your group name  
+- Make atleast one submission ASAP. Don't wait for the last moment to use all your submissions. Gradescope will be facing heavy load during the last moments, and you don't want yourself stuck and waiting for the autograder results. We will **NOT** be accepting any late submissions.  
 - Only one person from a group should submit. Please add all the other members to the group while making submission on gradescope  
 
 1) **Fake review detection**  
